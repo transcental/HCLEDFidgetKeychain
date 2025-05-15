@@ -1,6 +1,6 @@
 # Hack Club LED Fidget Keychain
 
-![3d Model](imgs/3Dpcb.jpg)
+![3d Model](imgs/3Dpcb.png)
 
 For my [Solder](https://solder.hackclub.com) project, I decided to make a keychain that has LEDs arranged into the Hack Club "h" logo. The LEDs turn on when it gets dark, and turn off when it's light, using a photoresistor. The design also features a button controller vibration motor for maximum fidgeting ability.
 
@@ -25,7 +25,7 @@ For my [Solder](https://solder.hackclub.com) project, I decided to make a keycha
 ![PCB](imgs/pcb.png)
 
 ### 3D Model
-![3D Model](imgs/3Dpcb.jpg)
+![3D Model](imgs/3Dpcb.png)
 
 
 _Made by Amber - @transcental on Slack_
